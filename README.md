@@ -1,6 +1,6 @@
 ### Olá 👋 Sou mateus
 
-- 🔭 No momento estou tabalhando com PYTHON e C.
+- 🔭 No momento estou trabalhando com PYTHON e C.
 - 🖥 Estou interessado em trabalhar com Desenvolvimento Web
 - 🌱 Estou atualmente estudando HTML, CSS e JAVASCRIPT.
 - 🤔 Procuro por ajuda com HTML, CSS e JAVASCRIPT.
