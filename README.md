@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá 👋 Sou mateus
 
-<!--
-**mateusfurt/mateusfurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 No momento estou tabalhando com PYTHON e C.
+- 🖥 Estou interessado em trabalhar com Desenvolvimento Web
+- 🌱 Estou atualmente estudando HTML, CSS e JAVASCRIPT.
+- 🤔 Procuro por ajuda com HTML, CSS e JAVASCRIPT.
+- 💬 Pergunte-me sobre Jojo's bizarre adventure e Minecraft
+- 📫 Como me encontrar: mateusdcfurtado@gmail.com / @mateuzfurtado
+- 😄 Pronomes: ele/dele
+- ⚡ fato engraçado: consigo mover minha orelha direita
 
-Here are some ideas to get you started:
+### Hi there 👋 I'm mateus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on PYTHON and C.
+- 🖥 I'm interested in work with Web Development
+- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT.
+- 🤔 I’m looking for help with HTML, CSS and JAVASCRIPT.
+- 💬 Ask me about Jojo's bizarre adventure and Minecraft
+- 📫 How to reach me: mateusdcfurtado@gmail.com / @mateuzfurtado
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can move my right ear
