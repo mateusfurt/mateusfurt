@@ -1,4 +1,4 @@
-### Olá 👋 Sou mateus
+#### Olá 👋 Sou mateus
 
 - 🔭 No momento estou trabalhando com PYTHON e C.
 - 🖥 Estou interessado em trabalhar com Desenvolvimento Web
@@ -14,7 +14,7 @@
 
 
 </div>
-### Hi there 👋 I'm mateus
+  <strong>Hi there 👋 I'm mateus</strong>
 
 - 🔭 I’m currently working on PYTHON and C.
 - 🖥 I'm interested in work with Web Development
