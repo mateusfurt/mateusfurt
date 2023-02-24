@@ -24,3 +24,8 @@
 - 📫 How to reach me: mateusdcfurtado@gmail.com / @mateuzfurtado
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can move my right ear
+
+  <div> 
+  <a href="https://www.linkedin.com/in/mateus-furtado-672077262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mateusdcfurtado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+</div> 
