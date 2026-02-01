@@ -7,9 +7,7 @@
 - 📫 Como me encontrar: mateusdcfurtado@gmail.com / @mateuzfurtado
 - 😄 Pronomes: ele/dele
 - ⚡ fato engraçado: consigo mover minha orelha direita
-<div>
-<img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mateusfurt&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
   <strong>Hi there 👋 I'm mateus</strong>
 
 - 🔭 I’m currently working on PYTHON and C.
